@@ -1,0 +1,71 @@
+.Rectangle-8 {
+    width: 284px;
+    height: 1024px;
+    padding: 74px 13px 73px 24px;
+    background-color: #111;
+}
+
+.Bridged-3 {
+    width: 113px;
+    height: 99px;
+    margin: 0 90px 45px 44px;
+}
+
+.Frame-2-Background {
+    width: 236px;
+    height: 48px;
+    margin: 0 11px 25.5px 0;
+    padding: 8px 73px 10px 12px;
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.Shape {
+    width: 20px;
+    height: 30px;
+    margin: 0 15px 0 1px;
+    background-color: #fff;
+}
+
+.Carbon-Faucet {
+    width: 115px;
+    height: 21px;
+    margin: 5.5px 0 3.5px 12px;
+    background-color: #fff;
+    font-family: DMSans;
+    font-size: 16px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #fff;
+}
+
+.Rectangle {
+    width: 209px;
+    height: 58px;
+    margin: 12.5px 38px 0 0;
+    padding: 14px 18px 12px 10px;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 2px;
+    border-image-source: radial-gradient(circle at 50% 0, #58a0c5, #7a1a8d 106%);
+    border-image-slice: 1;
+}
+
+.Algorand-Mainnet {
+    width: 134px;
+    height: 21px;
+    margin: 275.5px 105px 12.5px 8px;
+    opacity: 0.4;
+    background-color: #fff;
+    font-family: DMSans;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #fff;
+}
